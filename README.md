@@ -4,9 +4,14 @@
 ```diff
 Hello! 🤓
 
+
 + I'm a systems analysis and development student.
 ! Living in São José dos Campos-SP, Brazil.
 - 24 years old.
+
+
+
+
 ```
 <div align="left">
   <a href="https://github.com/Sarah6197">
