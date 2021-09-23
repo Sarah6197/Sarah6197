@@ -17,7 +17,7 @@ Hello!🤓
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sarah6197&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="600px"/>
   <img height="180" src="https://media.giphy.com/media/XQ1FwjRKun4nS/giphy.gif" />
 </div>
-  
+  <div style="display: inline_block"></div>
  <div align="center"> 
    <a href="https://www.linkedin.com/in/sarah-fernandes-494000196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/1rango_legal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
