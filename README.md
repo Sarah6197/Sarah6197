@@ -15,14 +15,6 @@ Hello! 🤓
   <img  align="left"height="180em" src="https://media.giphy.com/media/XQ1FwjRKun4nS/giphy.gif" />
 </div>
   
- ### Contacts:
-  
-<div align="center"> 
-   <a href="https://www.linkedin.com/in/sarah-fernandes-494000196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/1rango_legal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
-  <a href="https://www.reddit.com/user/SAREC0" target="_blank"><img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white></a>
-  <a href="mailto:fernandessarah.06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
   
 ## What am I currently studying? 👩🏻‍🚀🚀
  <div style="display: inline_block">
