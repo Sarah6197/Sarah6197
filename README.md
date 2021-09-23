@@ -2,19 +2,20 @@
 <img align="right" height="170" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" />
 
 ```diff
-Hello! 🤓
-
+Hello!🤓
 
 + I'm a systems analysis and development student.
-! Living in São José dos Campos-SP, Brazil.
-- 24 years old.
+- Living in São José dos Campos-SP, Brazil.
++ 24 years old.
+! Kittens mother.
+- Learn, learn, learn.
 
 
 ```
 <div align="left">
   <a href="https://github.com/Sarah6197">
   <img  height="180" src="https://github-readme-stats.vercel.app/api?username=Sarah6197&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://media.giphy.com/media/XQ1FwjRKun4nS/giphy.gif" />
+  <img height="180" width="200px" src="https://media.giphy.com/media/XQ1FwjRKun4nS/giphy.gif" />
 </div>
   
  <div align="center"> 
