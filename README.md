@@ -15,6 +15,7 @@ Hello! 🤓
   <img  align="left"height="180em" src="https://media.giphy.com/media/XQ1FwjRKun4nS/giphy.gif" />
 </div>
   
+ ### Contacts:
   
 <div align="center"> 
    <a href="https://www.linkedin.com/in/sarah-fernandes-494000196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
