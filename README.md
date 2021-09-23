@@ -10,7 +10,6 @@ Hello! 🤓
 - 24 years old.
 
 
-
 ```
 <div align="left">
   <a href="https://github.com/Sarah6197">
