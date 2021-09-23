@@ -1,5 +1,5 @@
 <img align="left" height="180" src="https://user-images.githubusercontent.com/75621720/134444133-e2ef56fc-f1ba-4e04-8e73-4237eb95b091.gif" width="200px" />
-<img align="right" height="160" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" />
+<img align="right" height="170" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" />
 
 ```diff
 Hello! 🤓
